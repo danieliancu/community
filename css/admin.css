@@ -1,0 +1,62 @@
+        nav {
+            background-color: black;
+            width: 100%;
+            height: auto;
+            padding: 20px;
+        }
+
+        a {
+            color: white;
+        }
+
+        a:hover {
+            color: lightgrey;
+            text-decoration: none;
+        }
+
+        form {
+            width: 50%;
+            margin: auto;
+            background-color: lightblue;
+            padding: 20px;
+            margin-top: 50px;
+        }
+
+        form img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+        }
+        
+        tbody img {
+            width:50px;
+            height:50px;
+            object-fit: cover;
+                
+        }
+
+        textarea {
+            width: 100%;
+        }
+
+        #text {
+            height: 200px;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+
+        }
+
+        td:first-child {
+            background-color: red;
+            color: white;
+            display: block;
+            padding: 1px;
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .event {
+            text-align: center;
+        }
