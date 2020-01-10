@@ -25,6 +25,7 @@
         <button class="btn btn-warning"><a href="index.php?articol=eveniment">Evenimente</a></button>
         <button class="btn btn-warning"><a href="index.php?articol=news">News</a></button>
         <button class="btn btn-warning"><a href="index.php?articol=brexit">Brexit</a></button>
+        <button class="btn btn-light"><a href="despre.php" style="color:black;">Despre noi</a></button>
         <button class="btn btn-primary">Prima Pagină</button>   
         <button class="btn btn-danger" style="float:right;" onclick="<?php session_unset();session_destroy(); ?>"><a href="../index.php">Exit</a></button>
         <button class="btn btn-secondary" style="float:right;margin-right:10px;"><a href="voluntari.php">Voluntari</a></button> 
